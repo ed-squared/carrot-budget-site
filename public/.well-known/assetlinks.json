@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.edsquared.carrotbudget",
+               "sha256_cert_fingerprints": ["3E:10:27:AD:9C:AC:7F:E7:9B:48:47:E4:DC:CE:78:FC:02:ED:62:C2:D0:F8:72:F0:0D:C5:F3:90:1D:11:45:CA"] }
+}]
